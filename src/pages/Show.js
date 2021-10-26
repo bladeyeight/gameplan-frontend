@@ -1,5 +1,5 @@
 import { useState } from "react"
-import ReactDOM from "react-dom"
+
 
 function Show(props) {
     const id = props.match.params.id
